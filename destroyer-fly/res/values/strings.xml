@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="browse">Browse</string>
+    <string name="hello">Hello World, DestroyerFlyActivity!</string>
+    <string name="app_name">DestroyerFly</string>
+    <string name="event_list">Event List</string>
+    <string name="events">Events</string>
+    <string name="venue_list">Venue List</string>
+    <string name="venues">Venues</string>
+
+</resources>
